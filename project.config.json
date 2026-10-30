@@ -1,0 +1,41 @@
+{
+  "description": "八号总指挥：公关大逃亡 - 原创抽象讽刺足球小游戏",
+  "compileType": "game",
+  "libVersion": "3.9.3",
+  "appid": "touristappid",
+  "projectname": "八号总指挥公关大逃亡",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": false,
+    "coverView": true,
+    "minifyJS": true,
+    "minifyWXML": true,
+    "minifyWXSS": true,
+    "compileHotReLoad": true,
+    "compileWorklet": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "condition": {},
+  "simulatorPluginLibVersion": {},
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "isGameTourist": false,
+  "editorSetting": {}
+}

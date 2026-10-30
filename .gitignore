@@ -1,0 +1,16 @@
+.DS_Store
+
+# Local WeChat Developer Tools settings
+project.private.config.json
+
+# Local editor and OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local preview/server artifacts
+*.log
+coverage/
+dist/
+node_modules/
